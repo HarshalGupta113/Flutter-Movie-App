@@ -12,13 +12,17 @@ A Flutter-based movie app that uses the TVMaze API to display movies and TV show
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshot/home_screen.png)
+<img src="screenshots/home_screen.png" alt="Home Screen" width="300"/>
 
 ### Search Screen
-![Search Screen](screenshot/search_screen.png)
+<img src="screenshots/search_screen.png" alt="Search Screen" width="300"/>
 
 ### Detail Screen
-![Detail Screen](screenshot/detail_screen.png)
+<img src="screenshots/detail_screen.png" alt="Detail Screen" width="300"/>
+
+### Episodes by Season
+<img src="screenshots/episodes_screen.png" alt="Episodes Screen" width="300"/>
+
 
 
 ## API Used
